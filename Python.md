@@ -20,6 +20,7 @@
 + <a href = "https://bit.ly/2D3wHsf"> CS Dojo's Tips to write efficient code.</a>
 + <a href = "https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU"> Python Tutorials - Basic to Advance by Corey Schafer</a>
 + <a href = "https://www.datacamp.com/courses/intro-to-python-for-data-science"> Intro to Python for Data Science - DataCamp</a>
++ <a href = "http://interactivepython.org/runestone/static/ProbSolving2017/index"> How to Think Like a Computer Scientist - Problem Solving with Python</a>
 
 ## 2. Socket Programming
 + <a href = "https://realpython.com/python-sockets/"> Socket Programming in Python Basics</a>
